@@ -1,0 +1,10 @@
+nagraj=[10,20,30,40,50]
+yuvraj=[60,70,80,90,100]
+chinnu=nagraj+yuvraj
+print(chinnu)
+print(type(nagraj))
+print(type(chinnu))
+print(chinnu*2)
+print(len(chinnu))
+print(min(chinnu))
+print(max(chinnu))
